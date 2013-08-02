@@ -1,0 +1,4 @@
+tesztcore
+=========
+
+első próbálkozásom ##
